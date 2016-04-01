@@ -22,3 +22,8 @@ This is a full stack Javascript application that uses SQLite 3 to house a dictio
 <li>Show the count of how many words match or are similart to your word</li>
 <li>Has case sensitivity searches</li>
 </ul>
+
+<h4>Links</h4>
+<ul>
+<li><a href="http://www.nayrdnt.com:3000/wordsv2.html">Deployed Project</a></li>
+</ul>
