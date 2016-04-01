@@ -1,33 +1,24 @@
 #
-<h1>Classroom Helper</h1>
-<h2>Created by the Council Of Battle</h2>
+<h1>Twitter Words Dictionary</h1>
 Full Stack Javascript Web Application
 
-<h4>Organziational/Development Technologies</h4>
-<ol>
-<li>Eclipse</li>
-<li>Eclipse</li>
-</ol>
 
-<h4>Progamming Languages</h4>
+<h4>Progamming Languages/Technologies</h4>
 <ol>
-<li>Java</li>
-<li>CSS</li>
-<li>Spring MVC</li>
-<li>JPA</li>
-<li>MySQL</li>
-<li>HTML/CSS</li>
+<li>Javascript</li>
+<li>Node.js</li>
+<li>Express</li>
+<li>Twitter Api</li>
+<li>SQLite3</li>
 </ol>
 
 <h4>Project Overview</h4>
-We are building a full stack web application that will have real world utility and implications.  We are primarily using the Scrum and Agile methodologies, but will be flexible in adapting methodologies if needed.  Our project is called Classroom Helper and will assist with classroom management.
+This is a full stack Javascript application that uses SQLite 3 to house a dictionary of words hosted on AWS EC2. This application also uses ajax calls to hit the Twitter api to query tweets based on a word.
 
 <h4>Critical Features List</h4>
 <ul>
-<li>Class Roster</li>
-<li>Staff Roster</li>
-<li>Attendance</li>
-<li>User login and User profiles</li>
-<li>User Permission Levels</li>
-<li>Create basic ticketing system (tickets are created and put into a queue)</li>
+<li>Create, Read, Update, and Delete words from the SQLite Database </li>
+<li>Pull data from Twitter api</li>
+<li>Show the count of how many words match or are similart to your word</li>
+<li>Has case sensitivity searches</li>
 </ul>
