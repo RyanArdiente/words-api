@@ -1,5 +1,5 @@
 #
-<h1>Twitter Words Dictionary</h1>
+<h1>Twitter/Words Dictionary</h1>
 Full Stack Javascript Web Application
 
 
